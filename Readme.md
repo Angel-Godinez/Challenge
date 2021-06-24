@@ -1,0 +1,1 @@
+This code makes a word red and shows an image on an apple
